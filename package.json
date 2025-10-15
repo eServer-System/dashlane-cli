@@ -96,7 +96,7 @@
         "libsodium-wrappers": "^0.7.15",
         "node-mac-auth": "^1.1.0",
         "otplib": "^12.0.1",
-        "playwright-core": "^1.49.0",
+        "playwright-core": "^1.55.1",
         "winston": "^3.17.0",
         "xml-js": "^1.6.11",
         "zlib": "^1.0.5"
